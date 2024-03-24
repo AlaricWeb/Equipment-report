@@ -4,3 +4,4 @@
 <template>
   this is page Home
 </template>
+<style></style>
